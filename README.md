@@ -1,5 +1,5 @@
 # WaveletMelSpectrogram (WMel-S)
- This project is about exploring the combination of Discrete Wavelet Transform with the Mel Filter bank, to obtain a better feature for inputting into a Deep Learning model, which in this case is a LSTM.
+ This project is about exploring the combination of Discrete Wavelet Transform with the Mel Filter bank, to obtain a better feature for inputting into a Deep Learning model for audio classification problems.
  
 **Important note**: We do not aim to obtain a very high accuracy but only compare the use of Mel filterbank on Spectrogram and on Wavelet coefficients
 
